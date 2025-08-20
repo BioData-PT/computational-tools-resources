@@ -1,6 +1,6 @@
 # Computational Tools and Resources
 
-Discover the resources that [ELIXIR](https://elixir-europe.org), the European bioinformatics infrastructure, has at your disposal to help you thorugh all phases of biological data gathering, analysis, and publication.
+Discover the resources that [ELIXIR](https://elixir-europe.org), the European bioinformatics infrastructure, has at your disposal to help you through all phases of biological data gathering, analysis, and publication.
 
 ## Author
 
